@@ -1,5 +1,5 @@
 
 # Patika.dev Front-end Web Gelistirme Egitimi
-## HTML'e Giris - Odev1
+## HTML'e Giris - Odev1 ve Odev2
 ### Odev Icerigi
-Bu odevde basit HTML etiketlerini (baslik etiketi, paragraf etiketi ve aciklama satiri) kullanarak kısaca kendimden bahsettigim bir HTML dokumani olusturdum. 
+Bu odevde temel HTML etiketlerinden bazılarını kullanarak kısaca kendimden bahsettigim bir HTML dokumani olusturdum. 
